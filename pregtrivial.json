@@ -1,0 +1,272 @@
+[
+    {
+        "pregunta": "¿Quién dirigió la película 'Pulp Fiction'?",
+        "correct_answer": "Quentin Tarantino",
+        "incorrect_answers": [
+            "Martin Scorsese",
+            "Steven Spielberg",
+            "Christopher Nolan"
+        ],
+        "id_pelicula": 680
+    },
+    {
+        "pregunta": "¿En qué año se estrenó 'El padrino'?",
+        "correct_answer": "1972",
+        "incorrect_answers": [
+            "1970",
+            "1974",
+            "1976"
+        ],
+        "id_pelicula": 238
+    },
+    {
+        "pregunta": "¿Quién interpretó a Jack en 'Titanic'?",
+        "correct_answer": "Leonardo DiCaprio",
+        "incorrect_answers": [
+            "Brad Pitt",
+            "Johnny Depp",
+            "Tom Cruise"
+        ],
+        "id_pelicula": 1124589
+    },
+    {
+        "pregunta": "¿Cuál es el nombre del hobbit interpretado por Elijah Wood en 'El Señor de los Anillos'?",
+        "correct_answer": "Frodo",
+        "incorrect_answers": [
+            "Sam",
+            "Merry",
+            "Pippin"
+        ],
+        "id_pelicula": 120
+    },
+    {
+        "pregunta": "¿Quién es el director de 'La forma del agua'?",
+        "correct_answer": "Guillermo del Toro",
+        "incorrect_answers": [
+            "Alfonso Cuarón",
+            "Alejandro González Iñárritu",
+            "Pedro Almodóvar"
+        ],
+        "id_pelicula": 399055
+    },
+    {
+        "pregunta": "¿Qué actor interpreta a Iron Man en el Universo Cinematográfico de Marvel?",
+        "correct_answer": "Robert Downey Jr.",
+        "incorrect_answers": [
+            "Chris Evans",
+            "Chris Hemsworth",
+            "Mark Ruffalo"
+        ],
+        "id_pelicula": 10138
+    },
+    {
+        "pregunta": "¿Cuál es la película con más premios Oscar de la historia?",
+        "correct_answer": "Titanic",
+        "incorrect_answers": [
+            "El Señor de los Anillos: El retorno del Rey",
+            "Ben-Hur",
+            "La La Land"
+        ],
+        "id_pelicula": 910825
+    },
+    {
+        "pregunta": "¿Qué actor interpreta a Batman en la trilogía dirigida por Christopher Nolan?",
+        "correct_answer": "Christian Bale",
+        "incorrect_answers": [
+            "Ben Affleck",
+            "Michael Keaton",
+            "George Clooney"
+        ],
+        "id_pelicula": 272
+    },
+    {
+        "pregunta": "¿Cuál de estas películas no fue dirigida por Steven Spielberg?",
+        "correct_answer": "Avatar",
+        "incorrect_answers": [
+            "Jurassic Park",
+            "ET: El extraterrestre",
+            "Tiburón"
+        ],
+        "id_pelicula": 683208
+    },
+    {
+        "pregunta": "¿Qué director es conocido por sus películas de ciencia ficción como 'Blade Runner' y 'Alien'?",
+        "correct_answer": "Ridley Scott",
+        "incorrect_answers": [
+            "James Cameron",
+            "David Fincher",
+            "George Lucas"
+        ],
+        "id_pelicula": 78
+    },
+    {
+        "pregunta": "¿Cuál es la película de Quentin Tarantino que tiene lugar principalmente en una cabaña de Wyoming?",
+        "correct_answer": "Los odiosos ocho",
+        "incorrect_answers": [
+            "Kill Bill",
+            "Pulp Fiction",
+            "Bastardos sin gloria"
+        ],
+        "id_pelicula": 199951
+    },
+    {
+        "pregunta": "¿Quién interpretó a Neo en 'Matrix'?",
+        "correct_answer": "Keanu Reeves",
+        "incorrect_answers": [
+            "Tom Cruise",
+            "Brad Pitt",
+            "Will Smith"
+        ],
+        "id_pelicula": 603
+    },
+    {
+        "pregunta": "¿Quién dirigió la trilogía original de 'Star Wars'?",
+        "correct_answer": "George Lucas",
+        "incorrect_answers": [
+            "Steven Spielberg",
+            "James Cameron",
+            "Peter Jackson"
+        ],
+        "id_pelicula": 11
+    },
+    {
+        "pregunta": "¿Qué director ganó un Oscar por la película 'Gravity'?",
+        "correct_answer": "Alfonso Cuarón",
+        "incorrect_answers": [
+            "Guillermo del Toro",
+            "Alejandro González Iñárritu",
+            "Pedro Almodóvar"
+        ],
+        "id_pelicula": 49047
+    },
+    {
+        "pregunta": "¿Quién es el director de 'El laberinto del fauno'?",
+        "correct_answer": "Guillermo del Toro",
+        "incorrect_answers": [
+            "Alejandro González Iñárritu",
+            "Pedro Almodóvar",
+            "Alfonso Cuarón"
+        ],
+        "id_pelicula": 1417
+    },
+    {
+        "pregunta": "¿En qué año se estrenó 'Jurassic Park'?",
+        "correct_answer": "1993",
+        "incorrect_answers": [
+            "1990",
+            "1995",
+            "1997"
+        ],
+        "id_pelicula": 329
+    },
+    {
+        "pregunta": "¿Quién interpretó a Jack Sparrow en 'Piratas del Caribe'?",
+        "correct_answer": "Johnny Depp",
+        "incorrect_answers": [
+            "Orlando Bloom",
+            "Geoffrey Rush",
+            "Keira Knightley"
+        ],
+        "id_pelicula": 58
+    },
+    {
+        "pregunta": "¿Cuál es la película de animación dirigida por Hayao Miyazaki que ganó un Oscar?",
+        "correct_answer": "El viaje de Chihiro",
+        "incorrect_answers": [
+            "Mi vecino Totoro",
+            "La princesa Mononoke",
+            "El castillo ambulante"
+        ],
+        "id_pelicula": 459414
+    },
+    {
+        "pregunta": "¿Quién interpretó a Hannibal Lecter en 'El silencio de los corderos'?",
+        "correct_answer": "Anthony Hopkins",
+        "incorrect_answers": [
+            "Mads Mikkelsen",
+            "Brian Cox",
+            "Kevin Spacey"
+        ],
+        "id_pelicula": 274
+    },
+    {
+        "pregunta": "¿En qué película interpreta Robert De Niro al personaje Travis Bickle?",
+        "correct_answer": "Taxi Driver",
+        "incorrect_answers": [
+        "Raging Bull",
+        "Goodfellas",
+        "The Deer Hunter"
+        ],
+        "id_pelicula": 1171401
+    },
+    {
+        "pregunta": "¿Quién dirigió la trilogía 'El Señor de los Anillos'?",
+        "correct_answer": "Peter Jackson",
+        "incorrect_answers": [
+        "George Lucas",
+        "James Cameron",
+        "Steven Spielberg"
+        ],
+        "id_pelicula": 120
+    },
+    {
+        "pregunta": "¿Qué película ganó el Oscar a la Mejor Película en 2020?",
+        "correct_answer": "Parasite",
+        "incorrect_answers": [
+        "1917",
+        "Joker",
+        "Once Upon a Time in Hollywood"
+        ],
+        "id_pelicula": 910825
+    },
+    {
+        "pregunta": "¿Quién fue el primer actor en interpretar a James Bond en el cine?",
+        "correct_answer": "Sean Connery",
+        "incorrect_answers": [
+        "Roger Moore",
+        "Pierce Brosnan",
+        "Daniel Craig"
+        ],
+        "id_pelicula": 209912
+    },
+    {
+        "pregunta": "¿Quién dirigió la película 'La La Land'?",
+        "correct_answer": "Damien Chazelle",
+        "incorrect_answers": [
+        "Steven Spielberg",
+        "Christopher Nolan",
+        "Martin Scorsese"
+        ],
+        "id_pelicula": 313369
+    },
+    {
+        "pregunta": "¿Quién dirigió la película 'Fight Club'?",
+        "correct_answer": "David Fincher",
+        "incorrect_answers": [
+        "Quentin Tarantino",
+        "Martin Scorsese",
+        "Christopher Nolan"
+        ],
+        "id_pelicula": 550
+    },
+    {
+        "pregunta": "¿Qué actor interpretó a Wolverine en la serie de películas 'X-Men'?",
+        "correct_answer": "Hugh Jackman",
+        "incorrect_answers": [
+        "Ryan Reynolds",
+        "Patrick Stewart",
+        "Ian McKellen"
+        ],
+        "id_pelicula": 36657
+    },
+    {
+        "pregunta": "¿Quién dirigió la película 'The Shawshank Redemption'?",
+        "correct_answer": "Frank Darabont",
+        "incorrect_answers": [
+        "David Lynch",
+        "Quentin Tarantino",
+        "Stanley Kubrick"
+        ],
+        "id_pelicula": 278
+    }
+]

@@ -1,0 +1,69 @@
+/*  reset */
+
+*, 
+*:after,
+*:before {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: linear-gradient(to right, #4e54c8, #8f94fb);
+    list-style-type: none;
+    color: #ccc;
+}
+h1 {
+    text-transform: uppercase;
+    letter-spacing: -0.125rem;
+    font-weight: 900;
+    color: #eee;
+    margin-bottom: 1.875rem;
+}
+#contenedor--trivial {
+    background: #333;
+    padding: 1.25rem;
+    border-radius: .3125rem;
+    box-shadow: .9375rem .9375rem .625rem rgba(0, 0, 0, 0.1);
+    width: 50%;
+    text-align: center;
+    min-width: 20rem;
+}
+#respuestas {
+    display: flex;
+    flex-direction: column;
+    gap: .625rem;
+    max-width: 70%;
+    margin: auto;
+    margin-top: .9375rem;
+}
+button {
+    padding: .625rem;
+    border: none;
+    border-radius: .3125rem;
+    background-color: #8f94fb;
+    color: #ddd;
+    cursor: pointer;
+    margin-top: 1.25rem;
+    transition: all .2s ease-in-out;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+button:disabled {
+    background-color: #ccc;
+    cursor: not-allowed;
+    color: #333;
+}
+button:hover:not(:disabled) {
+    background-color: #4e54c8;
+}
+img {
+    margin: auto;
+    width: 30%;
+}
